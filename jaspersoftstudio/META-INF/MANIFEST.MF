@@ -1,0 +1,851 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_202 (Oracle Corporation)
+
+Name: dropins/eclipse/plugins/org.eclipse.ant.core.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: Wml6ySud2eMtkhFpRMSXh3+A4Q0XXAR7CUEez/p4eEY=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.jre11.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: KmgzB52Go1CeUvstkK069CwniKC6E38GF4u7WqGdfWg=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.debug.ui.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: XWMAufJYP+49AsIZ77WDHD3XD6+bgCCj2YbKJT+71bg=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.junit.core.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: +5tSPQhtK4+Tr6BTTm+3FB3L5dqlMmp/P6DyWaAi2os=
+
+Name: dropins/eclipse/plugins/org.eclipse.update.configurator.nl_it_4.
+ 2.0.v20130724060447.jar
+SHA-256-Digest: B998EGRgSIggTtEojFdXhdrsQuRJRq8YZjFf0DCPQ4I=
+
+Name: dropins/eclipse/plugins/org.eclipse.team.core.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: sgpcl/O5D8lrEAAmzseJU83HoCsWj2HMQrvnOPkw+Bc=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.core.commands.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: bfEi1pjWF7ETkQ4/9KR7pxkQoWbtUaizJQQAUCKv2P0=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.runtime.nl_it_4.2.0.v201
+ 30724060447.jar
+SHA-256-Digest: 4oDs91GYs+mjV8ViKvbkS1EyuNC9LPvjPJ7PIydeIFI=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.workbench.renderers.sw
+ t.cocoa.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: MUrrUgtjeaNxjCKo6VkEL5Hu5GPthaAgF8+Qi5QMQ74=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.examples.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: RVF9VsOI5it4jCg/1qF+hvBsEwsS1+mTT0SKVSFLGng=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.j2se15.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: GT/sjmlgKpd5qGjZg5sJvKIUHB7FTssjEZLaDP8Q9z4=
+
+Name: dropins/eclipse/plugins/org.eclipse.debug.ui.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: 1KHWTacxpYOhRkIhdbrO7KcyulbnWAqWLjg8RFTsXPc=
+
+Name: dropins/eclipse/features/org.eclipse.babel.nls_eclipse_it_4.2.0.
+ v20130724060447/about.html
+SHA-256-Digest: ZS6WEdscOcEXn4gwm/bafNIeHjgq0A9w82l/MBahltE=
+
+Name: dropins/eclipse/plugins/org.eclipse.team.cvs.ui.nl_it_4.2.0.v201
+ 30724060447.jar
+SHA-256-Digest: Xa1fBYzSjh9zwyf5iV4lrHE/7ImEps/Injn2zHdC/os=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.css.swt.theme.nl_it_4.
+ 2.0.v20130724060447.jar
+SHA-256-Digest: Nz3popWQaBN8P4q0iabmJLIw5HrY7sppAYKwDTkpvBI=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.examples.propertysheet.nl
+ _it_4.2.0.v20130724060447.jar
+SHA-256-Digest: /dfSYcuyJhCEPk+aBgKMC/XNTqmnalxEz5ElsM8+HWc=
+
+Name: dropins/eclipse/plugins/org.eclipse.team.examples.filesystem.nl_
+ it_4.2.0.v20130724060447.jar
+SHA-256-Digest: 0+x7ajkWGZ10N4uzK8mgHCTLTJcjEEV9RJIWlLtbHIE=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.examples.undo.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: NZ3LfssnXuEoHHUa7mA0hr3Ss14eparnWEuj/daSHic=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.resources.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: 0JYVD2ujxX62v6EyI8uSpHBm70wj+DNBT44LMHEKz+o=
+
+Name: dropins/eclipse/plugins/org.eclipse.jetty.http.nl_it_4.2.0.v2013
+ 0724060447.jar
+SHA-256-Digest: rkBQqYOevWq8HgiIbGldD9RWAPkd0gCffbA91/01QyA=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.ds.core.nl_it_4.2.0.v201
+ 30724060447.jar
+SHA-256-Digest: lo5h2lQEtwoftZV9CeXtDgnUgXbue4VQ4aRCCAxTIXA=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.cocoa.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: 7cEk15UFdEMw3NGy+/j9dfnA+9jHZBtksJIoWZvx5Io=
+
+Name: dropins/eclipse/plugins/org.eclipse.debug.core.nl_it_4.2.0.v2013
+ 0724060447.jar
+SHA-256-Digest: 4FzwIBGD5kIKlxB7hX0S+hSM29eeWppb19hlfJBkso0=
+
+Name: dropins/eclipse/plugins/org.eclipse.jface.nl_it_4.2.0.v201307240
+ 60447.jar
+SHA-256-Digest: ki/TidaK5WcsX+Gq2H2RE8+ox6eIkIRUHD5VoJR/QnI=
+
+Name: dropins/eclipse/plugins/org.eclipse.rcp.nl_it_4.2.0.v20130724060
+ 447.jar
+SHA-256-Digest: rVOHXs8BgstSFgn20fbFjld5Y2aKlO8nn9xzfrCwTqY=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.linux.ppc64.nl_it_4.
+ 2.0.v20130724060447.jar
+SHA-256-Digest: 3zyk1KF29nHx1XMoqEtlRHISHp6Fju7QaoTwzbOFQTc=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.variables.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: 15Fxtk6UG7fgofIoCUa0csMy7FzacV19/bT3r9ZHBfk=
+
+Name: dropins/eclipse/plugins/org.eclipse.help.nl_it_4.2.0.v2013072406
+ 0447.jar
+SHA-256-Digest: zxO15OJXU6+HWUvwIx4q0VRyifn2xWLriGy+gyR4QpU=
+
+Name: dropins/eclipse/plugins/org.eclipse.ecf.provider.filetransfer.ht
+ tpclient.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: BVpumlUJ47gx/ZmxNS46I5E923XVC/Wq3X2+rsVY3gc=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.runtime.compatibility.a
+ uth.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: cCkkuaSHFtNhf3EmZnHJjREXZKom3Xl/xWGYV2lUn9g=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.jobs.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: aHGWLVn54yJJd1wsRwp889RjA91XsavgauzspD409cM=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.launching.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: LYdC0BG5piwe2xrD3ggig3Zj0KpIjXRhCxPcnweG8As=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.console.nl_it_4.2.0.v2013
+ 0724060447.jar
+SHA-256-Digest: Y0xrfChBs7p8xZtr/GUbMBXWPmJu8x0jXNpxJOpUpS4=
+
+Name: dropins/eclipse/plugins/org.eclipse.sdk.examples.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: 0pc9751u04kkldZMFgL9amReK9XDC1Np5/rOSoBw9X8=
+
+Name: dropins/eclipse/plugins/org.eclipse.osgi.util.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: O/qju9o+8BKkKwAJfW1Wy85Evms7insRTwPqRoOjJjA=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.javase17.nl
+ _it_4.2.0.v20130724060447.jar
+SHA-256-Digest: mwIwKL8/ZDrWsF7GlfLiFLGEX6EXmDK/+6Rc2EZi7so=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.bindings.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: o6W9ckgNoz8sGHlH/Ea0biqfFGcKWHc7P5AnWtnXWb0=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.core.contexts.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: wSLyUN9kRUT3ljO7fptZkXFIv7bmnKWG80YpFN9XKJY=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.workbench.addons.swt.n
+ l_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: YqmVWaiISIGgPs4UaISMyj8Wmz27zuqyrdypXSEanus=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.win32.x86_64
+ .nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: kWJRctuqlSzDkzhtQQmoavwRkqlJrekCN0Sg4OjlAmc=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.navigator.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: 3ZTplSuI8VCEsUJ6uwugyvFGYbedxwReHm5sjwoAGMo=
+
+Name: dropins/eclipse/plugins/org.eclipse.ant.ui.nl_it_4.2.0.v20130724
+ 060447.jar
+SHA-256-Digest: tt/6ztXLQLvUNkSW6Y4jmAr9GcXaW+hVeCEg1TccMpA=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.j2se14.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: RbkNmHpE9norb7wn3Lv6i4YsZnHzx/Y96vqcmosInrA=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.examples.readmetool.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: rx6CqK4JsfUcVaL6jTNi+QvAJXCm+aY7emY6RptoIcM=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.presentations.r21.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: sdDK+2c5LOeVjOYGqJNJ+GqwuzKksYsEPbKjZ9amc5k=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.win32.x86.nl
+ _it_4.2.0.v20130724060447.jar
+SHA-256-Digest: b+yMeUaTALu/y9YafyafOELP+9QUIjfFwL3eZR+UIp4=
+
+Name: dropins/eclipse/plugins/org.eclipse.cvs.nl_it_4.2.0.v20130724060
+ 447.jar
+SHA-256-Digest: Jb9o0z9PvGiFut4WEeV1b19R1Ir727RGow2ZrcT1HOY=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.core.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: 8+RLjNITRjHOnxZhX3bK2joGChsx58aE7Y4uqHpip/c=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.css.swt.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: ZjOoeyf7djFeNV54qEqQS0W4+09kB8kWrNHmFRcHtaI=
+
+Name: dropins/eclipse/plugins/org.eclipse.test.performance.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: pD+SvJZMIVba5KyuK0eXUpSn7hksu694AbEln27v/m4=
+
+Name: dropins/eclipse/plugins/org.eclipse.team.cvs.ssh2.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: PC2ApdJnVyfJEtboPCDGKZ6HpL9yPi5NF6qzPct6bLk=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.examples.layouts.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: T8xJGpdNB2wN7eSol2ZWYiActKXhPWCPwB+4Lfwdy5c=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.solaris.sparc.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: gjBbstGIpnpTZ5vCXv7FdsIEMOroARq/aS65lmwdUKQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.aix.ppc.nl_it_4.2.0.
+ v20130724060447.jar
+SHA-256-Digest: pcYDvKW0MkaARsABh3QWRx+xmTZQTQeJUxWnHSi6B/o=
+
+Name: dropins/eclipse/plugins/org.eclipse.platform.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: wxNE6Qjx+lZqIpF8hvxQ6Ze61QoDOJImxPdIruOVGjU=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.junit.runtime.nl_it_4.2.
+ 0.v20130724060447.jar
+SHA-256-Digest: fYCiYm9nMKI2cmtDfSBdSEuXjs/4wdEnQoK60NeJL24=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.workbench.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: y7lPAjb1pEj6hbC2zqw91PLysz0XKvBAL1Gf+IKMXz4=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.forms.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: Ej+2o8a7QalVrG04Gogn7Tvm1CWyOW0zWAtTqMUeATY=
+
+Name: dropins/eclipse/plugins/org.eclipse.osgi.services.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: ySuTVZGtq2B0NVZFxHlw6vCKA9FAZzd1SpiR3BuLvQ0=
+
+Name: dropins/eclipse/plugins/org.eclipse.jface.databinding.nl_it_4.2.
+ 0.v20130724060447.jar
+SHA-256-Digest: SMyt19d1ilSlPJkdnAMbEBOe9ZixTwDFCBkx0rx7Yis=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.views.log.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: UKmEmih5XQhzcTjaJ2HRdFl/rRUxmrYFmX3XKjiaHMs=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.cocoa.macosx.x86_64.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: 87p130ANG+rnBDCqFYEVTkoBZnHQoMK5g3UrHc91l8Y=
+
+Name: dropins/eclipse/plugins/org.eclipse.ltk.core.refactoring.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: pbIOgbnxCjiqLM9iHWBzW93B1KFhjJ26eylK46rahKM=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.core.di.nl_it_4.2.0.v2013
+ 0724060447.jar
+SHA-256-Digest: yHbI7NVDv2ysF2RR+9jixvlIkIJtND56akFZ5XaqE2E=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.j2se13.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: SZZ3gjCDMi+4RQtgNeDwBqypiZx01mBC3vBp5HE0X2w=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.core.manipulation.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: b1qaSw9fQaykoil+liLVd+2sLWE5/NXP/HFX+oWOY8A=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.runtime.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: V+u+XXxbCbM+V5zQGqS8QxVmRS/NrlO2CSY44eyRbEQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.intro.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: vUguk8RzlE0Fm1xaOknYUjXgyp/1nKnENr0JK2ZVp3U=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.apt.core.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: 2nbpiVmJXLbiuXeUH4XZmaGzBmGc+s5H1hLPDkjVKeE=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.net.linux.x86.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: uONizgRYqf4MeMLuEbbSKzg6AmrvhJyKMY2QuTaPF50=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.net.win32.x86_64.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: H77fLvdNWcVg9p8tlzvmV+RNy3FCqZwjzt17eA+BeAY=
+
+Name: dropins/eclipse/plugins/org.eclipse.ecf.nl_it_4.2.0.v20130724060
+ 447.jar
+SHA-256-Digest: 7KXqCN8grGdVqS/XmVxa2dawz2WBzbjQI6jFsP521Ws=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.osgiminimum
+ 10.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: lJvY0Vx4peD6N1Cp9ZtwbwbGnd5qOdI7tuMq0wFW8d4=
+
+Name: dropins/eclipse/plugins/org.eclipse.team.ui.nl_it_4.2.0.v2013072
+ 4060447.jar
+SHA-256-Digest: 8/eOVhvFeFSoK9lWpa3WXocuRzPgM7CRx9tmgPV3rfI=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.net.win32.x86.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: aQrz5TNK7U02XupXvgvZxbczQYO0VIwyBIeBLYl7QmA=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.ui.nl_it_4.2.0.v20130724
+ 060447.jar
+SHA-256-Digest: haukrPjRzYGpHUMdz146LSQfKrh+BMCvqwEFjpeRf7w=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.databinding.observable.
+ nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: olHjCz7Vaf5gnqfxJYo/Fb7O7hnw+LQks8u5YAWEIng=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.launching.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: V8kXytCs9RMLXHLrcTpd4WgBcChPrMakuB+gzEYpKBc=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.contenttype.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: rWMhzmRagOULAgnT7FqgQC6oVokwxUYp4OHNsmGfIis=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.workbench3.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: h+Tn+PEDmVjEcByHeRdjNR/Wyv0zVsHWFtpb1v98g7Q=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.nl_it_4.2.0.
+ v20130724060447.jar
+SHA-256-Digest: F3yGSyvC5LkUUlwTvPX1cQu0vy08ER5OWxysQTgMj48=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.ua.ui.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: x8CZf2ADXWf7zL1qLVbqFva5zXggct9EQ9NBui2ji7Y=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.apt.pluggable.core.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: 6d171YGePdnfyCdcMaHdPbJEYH026SukSjyASZwaig8=
+
+Name: dropins/eclipse/plugins/org.eclipse.help.webapp.nl_it_4.2.0.v201
+ 30724060447.jar
+SHA-256-Digest: lZgasPUk7S2OQ5y+V3AZ3D2rfmpkShbl41iTVo97W98=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.databinding.beans.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: dubqTAWK2b6IvfaJ+qtX8uiDqN1UtNkfftjUUMa48KE=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.ui.templates.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: q/sjyfWqewXctM1pLFUWi88RJzRhvbj4CUAv3FTKkEY=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.javase16.nl
+ _it_4.2.0.v20130724060447.jar
+SHA-256-Digest: QXXNVeDOQbefMZF8SKaPAIN/M5p7oL4AOKOX4eegIVs=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.doc.user.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: pyedsVCFJfWqQfxmURbW5kobSDsAMHZiEL00tbCDQO0=
+
+Name: dropins/eclipse/plugins/org.eclipse.compare.win32.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: mDkSzkJbJK2Fbe9ZoF6UGWgB4vnji5rPxa+N6JWXmm8=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.macosx.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: iT18vmPq/ergPNo9giQIrtJ0k9e6dFVubEXb2POe6zY=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.annotation.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: v8oCUDdjukMzURmx/zFJERBoKmjoFYhpMovpfUt1v/w=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.linux.x86.nl_it_4.2.
+ 0.v20130724060447.jar
+SHA-256-Digest: 2D7oI0Xb+HfrtLw4LG6oJCpKPWpdue6YSAD2gXz98HM=
+
+Name: dropins/eclipse/plugins/org.eclipse.help.base.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: 9zA+F7TY61kggdGjJtls1v9/6rQZEtwUiAmBA9vmhyg=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.nl_it_4.2.0.v20130724060
+ 447.jar
+SHA-256-Digest: Y2zkSbBnE2O0UhMyI7Wn9CfAPjWSjqTvLyBYsxagCek=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.cocoa.macosx.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: aBT+DbutATXECt4m3i/YIES85dWe17buZdM5ocINwfU=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.examples.fieldassist.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: s1Jrsm5Ga7khmQDeMt4K1sGDlJZS8LuqXpR4f8xUW7w=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.externaltools.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: qwKnbvDNNJPuV/arakTuRzW2mHIjw/vxrECSYqszyV4=
+
+Name: dropins/eclipse/plugins/org.eclipse.search.nl_it_4.2.0.v20130724
+ 060447.jar
+SHA-256-Digest: YEUp8z2Xa2LjUkf0U+k0HNlxVLCD0AFyB/COVDCmvb8=
+
+Name: dropins/eclipse/plugins/org.eclipse.debug.examples.ui.nl_it_4.2.
+ 0.v20130724060447.jar
+SHA-256-Digest: B99qWl7hrTsh3eZjj1g2GKImcs0216q8ZocL5eXtmiU=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.databinding.property.nl
+ _it_4.2.0.v20130724060447.jar
+SHA-256-Digest: xY8PWpRq/z/S5zkl0qHEWTmcwJV3Z06Dnb54fp22AmM=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.ua.core.nl_it_4.2.0.v201
+ 30724060447.jar
+SHA-256-Digest: kqaiWdUJrinHXVPGsuYOnQQtpKOHiGqFVCGjfvzskbg=
+
+Name: dropins/eclipse/plugins/org.eclipse.ecf.provider.filetransfer.nl
+ _it_4.2.0.v20130724060447.jar
+SHA-256-Digest: cSKh9zg52eGWbbCKyYdKBxP5Ze5vq06Xo508Vn711LM=
+
+Name: dropins/eclipse/plugins/org.eclipse.update.ui.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: CKGfM/0zII+CPR+bO55qDP3yQw5Xv9ggvlwmnWYk6jw=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.linux.x86.nl
+ _it_4.2.0.v20130724060447.jar
+SHA-256-Digest: LAIZhjKpLTDfAUqm6sXvO241Bd85WTqbiZClm2BiSo8=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.widgets.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: zAIL2Sj6FDkWIKRhJoPN1tdr+RmHcPjDfR+oDxcW2+A=
+
+Name: dropins/eclipse/features/org.eclipse.babel.nls_eclipse_it_4.2.0.
+ v20130724060447/epl-v10.html
+SHA-256-Digest: T9ZK7tNA1ipkqNpLNx7+D20NdF9NLb76y6hsZG02vHI=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.osgiminimum
+ 12.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: W9R4s/honlLo5qKrOobBkKSeQis4NGotbogpnru1RVE=
+
+Name: dropins/eclipse/plugins/org.eclipse.releng.tools.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: lXokyKRvTAkVHaBxYriXnGJkPHefuMhyHluuzl+bRos=
+
+Name: dropins/eclipse/plugins/org.eclipse.compare.examples.xml.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: mBTkKt6c8ilU48yyoOLCmaVBURP/I262vMePsjz9rTY=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.navigator.resources.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: FiCYsduztKAOk+KYaRHUQRqweRbnx826Sx2Yc1j0/Bk=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.intro.universal.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: h5UcTFY8+P+7rUsptXU9Lr5EAHd8NomWCjtqn4/RL+g=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.workbench.texteditor.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: k8NurEbXjQFI++IBuEZJ2yzek++CiI1KPJRZ/eb7hMs=
+
+Name: dropins/eclipse/plugins/org.eclipse.help.ui.nl_it_4.2.0.v2013072
+ 4060447.jar
+SHA-256-Digest: pb+N6ZNxFwVsdwgl5YlZSUg+e8b4FIi+Bu29kH/eMKk=
+
+Name: dropins/eclipse/features/org.eclipse.babel.nls_eclipse_it_4.2.0.
+ v20130724060447/eclipse_update_120.jpg
+SHA-256-Digest: Hz0atd2kr+i4cvgLVlm8vrN9olKs5NgxwdDxTuA9N2k=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.workbench.swt.nl_it_4.
+ 2.0.v20130724060447.jar
+SHA-256-Digest: dwEo0bTfIT4Q3EwjOo7GjV6DSMfFTmwBn65agvIyaqQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: gtzO+gbJuxfA7/JwloW+yFAvfnwnm2d7s06UacF0a4w=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.editors.nl_it_4.2.0.v2013
+ 0724060447.jar
+SHA-256-Digest: /pr6bYvq7Lh1d6L4j3ooIs5GOLLt74SLzzHRrGrR8AE=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.osgiminimum
+ 11.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: 7kbcPXe67YofwSnloqDikg1M7VanOMuXuq4ajFb15zU=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.nl_it_4.2.0.v20130724060
+ 447.jar
+SHA-256-Digest: j1QNNy3Ds8WlnHW4BY7k/luP9D9Fp3PiJ+Pxbeu3wGw=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.win32.wce_ppc.arm.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: ArQroXyrDfAZlPTVq+UowKKF6uDFX6OlrvLNecCT2/c=
+
+Name: dropins/eclipse/plugins/org.eclipse.update.core.nl_it_4.2.0.v201
+ 30724060447.jar
+SHA-256-Digest: cdbjPtt0MYgMogckw/4R7i9CcncQ49LMy0vAHu/3tQU=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.debug.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: md3D1PKzLTRsxYXM8yE3dTnj7tg5QLQF/f+tZIL5Xrc=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: WDkNv1aj65ez5QIPK+Ac1x4fCVwdju8opJa6yl/+azI=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.workbench.renderers.sw
+ t.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: IVaOP2Rto4zREzu589rjXlgcLU94T+GpqZFFwSDzasg=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.junit.runtime.nl_it_4.2.
+ 0.v20130724060447.jar
+SHA-256-Digest: kGlyBDpR1nI3Xxl/mFPYezeqk4NvPv+niPWL/9PBrms=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.externaltools.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: KrZ3nZPyyU/ZlSuVIdklgQ9j2UA1AbsEo03UNjHfiMo=
+
+Name: dropins/eclipse/plugins/org.eclipse.sdk.nl_it_4.2.0.v20130724060
+ 447.jar
+SHA-256-Digest: shevi+QTJ4v51/O3N6g6SZL+XWzckniLCzj51P8Ut1Y=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.aix.ppc64.nl_it_4.2.
+ 0.v20130724060447.jar
+SHA-256-Digest: ywncVXh1F1G79kvqQhr+30UGU/VfiHsCA+cKR73nYBQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.examples.contributions.nl
+ _it_4.2.0.v20130724060447.jar
+SHA-256-Digest: i6w0dvaLoNWZNlV3XCLhmkt+e9PdWaZf41HNPfZ/KDI=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.services.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: 4nN+OvUeTRdAuX4yRTGYhqz7KPJWu/nIegoautwPZCA=
+
+Name: dropins/eclipse/plugins/org.eclipse.ant.launching.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: 5LFH2h2i1CZBXiQ3+Xj78h+VtARGny1h19afM+iH5F4=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.linux.s390x.nl_it_4.
+ 2.0.v20130724060447.jar
+SHA-256-Digest: jgnsz/s3C7H1CvgDn08Mp4K7MQ7uk7ZmhkfpYcQ9+GQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.cheatsheets.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: 2zmAVrOipgdK75cgGydPgvPs0V5WjM/T9hQXWOnP6JM=
+
+Name: dropins/eclipse/features/org.eclipse.babel.nls_eclipse_it_4.2.0.
+ v20130724060447/license.html
+SHA-256-Digest: iB/QB6FXY9Z45H6PbFSaACtgL/sVxATjCHyR61AxIpM=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.cdcfoundati
+ on10.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: CVy1aTOiPGPm5CdYHjlXqgRJZozKtAo/uC5WsYmNmRw=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.apt.ui.nl_it_4.2.0.v2013
+ 0724060447.jar
+SHA-256-Digest: jOOL9t5ewswzCUSTeEiXDe2lJngJ+QAo2em/22ykVY4=
+
+Name: dropins/eclipse/plugins/org.eclipse.update.scheduler.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: KiqU2/v13P6/jI0LTDIkhQAqATIqS4QwhCciy38mKdU=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.junit.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: GJhvtV8j39K5l569/yyl6oW2opBsb7vMHYw7fSrssOk=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.databinding.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: TY9uvP8EW/XjFeyf+JF3/j7MJr9OU1WMZ3QX3hFfHjE=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.examples.launcher.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: s5CDHBznAdEoepW8HXGT7q1YQgp0vB0qkRf4fQdvGKw=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.aix.ppc.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: Lx7WoCr/C9jNQjj+Z4kiq6cHAIwvvUedmblks3A7MFE=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.nl_it_4.2.0.v201307240604
+ 47.jar
+SHA-256-Digest: 9dCekUkfi/OQFbqfmd45+91VUyvYcTu8nsGPhZGO3QM=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.workbench.nl_it_4.2.0.
+ v20130724060447.jar
+SHA-256-Digest: oaHQ8Q3tbbz9RrqXxIOact6/1mCicewgof7HZD5wXDU=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ui.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: fyWiO2SEB9kboF2+4vnq6QO4/ujTJst61jtER0NSBGQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.doc.user.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: 2f9KHhlNQQGm1yD7boXmgSAmltA2Z9ANONMKSlIt2CU=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.cdcfoundati
+ on11.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: gFid0TV6jm+BOwVwJ0Cov800MUCEpoVaDrvpwUhyzuA=
+
+Name: dropins/eclipse/plugins/org.eclipse.help.appserver.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: Cq0EI2bhiIpTqPXyHjYmxICcKA37eRoCCmwDo/0IcXs=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filebuffers.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: xfm677mn8vsQ/ykMdXCufRcn53Om7/9JHx9vXUus37U=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.core.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: hMym/6ujeF975M0WAL8GrZBcP37uTInKEkJisbDmDA0=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.net.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: L2FBWlX4ftwU6Qd5IJGC9UmShflPTmsU8SNLre/AuR0=
+
+Name: dropins/eclipse/plugins/org.eclipse.jsch.ui.nl_it_4.2.0.v2013072
+ 4060447.jar
+SHA-256-Digest: 3Y9p/z4z+JGhLQC6vrBycBNpG93UmF43DSS843EaKGA=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.examples.browser.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: aMw+AMVaIw7tO1pJ7WgORC6kMOTX0KJ78JpTSp8wLAU=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.hpux.ia64_32.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: E5tCCRX+/O7blv/f5aeUo5VbdKdLxadaISFLdirhEyw=
+
+Name: dropins/eclipse/plugins/org.eclipse.compare.examples.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: lbWBXNkrSLGctTfV81tVFCGObBcowP9dGrTaprMFYBo=
+
+Name: dropins/eclipse/plugins/org.eclipse.platform.doc.isv.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: rXInYHyWr5h5A/pYsWFB7tPmwf3dWccqHnqQSOxUzNc=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.browser.nl_it_4.2.0.v2013
+ 0724060447.jar
+SHA-256-Digest: FWw2ypGloHtEdDzCogsh5TBjhnWGs6XxpZ8Omg7ycxU=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.win32.win32.x86.nl_it_4.
+ 2.0.v20130724060447.jar
+SHA-256-Digest: HPX1WX29hrdFSEx1B+h6UdL0aVP++33EPMqRj4SD20w=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.launching.macosx.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: 6ov9SNOXYacaX4UTUBFfGU+6RW99d0ztsrcf7wd7F8U=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.model.workbench.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: ms0ZBKR6xUodsN6b4hGOFFcD0zjiryqBZkFJvrslUXU=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.junit4.runtime.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: ZoA7uaTQT0VxNsyVvqGqa4qJ4BwDWJxd3DvBeXtuKhk=
+
+Name: dropins/eclipse/features/org.eclipse.babel.nls_eclipse_it_4.2.0.
+ v20130724060447/feature.properties
+SHA-256-Digest: j7TmjKR4uvq7PIfz9zJUA/JP2M13B8CD5/yMYGeukNc=
+
+Name: dropins/eclipse/plugins/org.eclipse.ltk.ui.refactoring.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: Cwi4sG6eInHJRP0WIl7f0khqYnkvl4lONH/yVHOJMug=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.solaris.x86.nl_it_4.
+ 2.0.v20130724060447.jar
+SHA-256-Digest: k0xotBEm6hD1lCQwLViJPoJW0G1b3UDcbEvY+xMFq/U=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.api.tools.ee.j2se12.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: HkGbHEXjGxXkI7qqbqpH3oMXGRgg/yXuSuhOc5vnC74=
+
+Name: dropins/eclipse/plugins/org.eclipse.jface.examples.databinding.n
+ l_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: Tx3zUBk2fqEYYDfI5Tx/YaO5CbNy8p8w5WCCFlG/RIs=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.trace.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: khvW2TAjsq27q5ZEyu7AXFbq6f0NhVCZXvSSNC2R7UA=
+
+Name: dropins/eclipse/plugins/org.eclipse.jface.text.nl_it_4.2.0.v2013
+ 0724060447.jar
+SHA-256-Digest: musHo7eATNRz2QalEqUVICxZvwEo/CXYKqZiM721bmQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.ide.application.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: YyxDHRlWBzfRE4JRjmyX7BX0gqSnc3917b6JMFQJkD8=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.core.compiler.batch.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: QZNY/zz+yluqAD0jiyR7lDp6XL6Aygvohl2LmUiVH40=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.solaris.spar
+ c.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: yPQAC8IbdtswpkUCdC5oQy6IyyGrim41WW02Kaxz2to=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.ds.ui.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: 2FRkTbo+PNhkMI0/lJp6i7mGrujpVc5pOtH50Fz02D4=
+
+Name: dropins/eclipse/plugins/org.eclipse.osgi.nl_it_4.2.0.v2013072406
+ 0447.jar
+SHA-256-Digest: yHGAZX4lrBt4aKbgVlDj7gBjV+PEl6oxck6wAdzji+s=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.launching.ui.macosx.nl_i
+ t_4.2.0.v20130724060447.jar
+SHA-256-Digest: q/olghAprJXZWV/8beiZ6tCiEdTE9qftt2om2PSlp4A=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.ui.nl_it_4.2.0.v20130724
+ 060447.jar
+SHA-256-Digest: uKCnZ1gd+d0QGLCJuWHAT7Acb9waw/T/jCbuiu9y/sU=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.examples.browser.demos.n
+ l_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: CBrj9PBWEoPisCtO9J0SYm7YPcHdrC3xYxP+GcH5BnI=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.examples.multipageeditor.
+ nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: xX7CyW/ydN52K7dV0YMXXgtVRwVUVPwWejhwW//B2jA=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.expressions.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: KLy7qXolGhdtKwbStPpqfl9TavM8RR+g1HYP86u/MlQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.compare.nl_it_4.2.0.v2013072
+ 4060447.jar
+SHA-256-Digest: oCQU7XzUXWeZLc3/Hxqg1l/EiX9szo4u/XkGWF2k/IM=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.win32.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: JvRJnATtLdM4u+xYRcGdPD4ynaypLxBJ+UBpHnp3Smg=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.css.core.nl_it_4.2.0.v
+ 20130724060447.jar
+SHA-256-Digest: HisYaFt5D8MVHZ37ISXg3gR2ln8Pbzxd+RlVbIp+qJg=
+
+Name: dropins/eclipse/plugins/org.eclipse.ecf.identity.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: SHhiIaSjzc1ms5kjq2noGvTjw7rM9UMJnyAvGAVJwEY=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.examples.javaeditor.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: RdquDmRhsBf8HNLdri6jumAx9n59OY8zqVUczQj7bpU=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.hpux.ia64_32
+ .nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: 1SgfudJy7B/dp5HRAHsCJJhWADyNalPhJ2dRvv5cmbM=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: T6mKfuvfgK8g3Z1SiII/KiKhwEcQdYfSyr2Gy6/X36k=
+
+Name: dropins/eclipse/plugins/org.eclipse.platform.doc.user.nl_it_4.2.
+ 0.v20130724060447.jar
+SHA-256-Digest: dfUb+uYSQ5kHfZti5VTgbBBvKh+aAzOxPpYx+uJ9nSI=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.tools.versioning.nl_it_4
+ .2.0.v20130724060447.jar
+SHA-256-Digest: KfhHEjUQHzztlvYmm8HGru6sVFhoP93FECKmO8UMU7I=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.commands.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: 0xf9P9Z1BHo6+9TXPggLsjunODSQ6K8DsY2LB8SbpVk=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.examples.paint.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: 8nTnpJNp5H1BmwmduBMdLteIoxtSYTKSYM8C4DdKuWg=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.examples.controls.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: QMDbsH8rbAAQQSoMPTA9Yfyf6pOta2e7sUEJB8dazzI=
+
+Name: dropins/eclipse/plugins/org.eclipse.compare.core.nl_it_4.2.0.v20
+ 130724060447.jar
+SHA-256-Digest: Aweeqpatd/kQqvzECv3dJGtkIj25vQCBlnev1xL4LLM=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.examples.ole.win32.nl_it
+ _4.2.0.v20130724060447.jar
+SHA-256-Digest: De7lPGZoUDBN7PhkN8IRguKxR+FiGtUhgNR/IW1v+OI=
+
+Name: dropins/eclipse/plugins/org.eclipse.jsch.core.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: DwQ3NHx/gZaqXNETeCY8GV/HrmbFIG2TsOTqXA8WiIM=
+
+Name: dropins/eclipse/features/org.eclipse.babel.nls_eclipse_it_4.2.0.
+ v20130724060447/feature.xml
+SHA-256-Digest: y3hvJ4hQAaa0E0/+3QLyv2go2X+LTn/waGlgHWatWXc=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.boot.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: FlOuyg0pSC4uDlH9vfglAqtr31HLeZrR9s8BH3/i1B8=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.examples.views.properties
+ .tabbed.article.nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: XmKi26TorHjbP6aGQ7KLojUnSsPc8vYFSx/iA6UmLOU=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.ui.di.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: BVrxqfaXv+0kW6Ytsg1PeD/lTsIWX32kjowZTzzKuzY=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.gtk.linux.s390.nl_it_4.2
+ .0.v20130724060447.jar
+SHA-256-Digest: dX75ZYZ2qbXSGnEJGkk1w9/4gi/um7ueSVvbubIxggs=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.views.properties.tabbed.n
+ l_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: cwdCX78DKBkrYc0I+WjbxNcECuC8PPIApPeX81yzNJE=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.core.services.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: wQBBQw9zwkbp3qivaWhf28yB7PPecAmKaRgKaBULLKE=
+
+Name: dropins/eclipse/plugins/org.eclipse.e4.core.di.extensions.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: KKtET+NVIJdTVann07/83Epu7Wmw1zQsTe5vgyQByrM=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.ide.nl_it_4.2.0.v20130724
+ 060447.jar
+SHA-256-Digest: Qjff7o5cccT+Y4gSgjyYrkK7VrVd31X3UDlH6Dw2tHA=
+
+Name: dropins/eclipse/plugins/org.eclipse.team.cvs.core.nl_it_4.2.0.v2
+ 0130724060447.jar
+SHA-256-Digest: w0qXzQmm+913rloZnYtnQrZ9sKJJcCXgyZQw3odkPqQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.ecf.filetransfer.nl_it_4.2.0
+ .v20130724060447.jar
+SHA-256-Digest: 7lURaqlB/vzQksANR+gBAkImKLptnCo6/hvL+ToGsbw=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.filesystem.linux.x86_64
+ .nl_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: 9NWFogzo7EowB+Q8ccnMTYJ9TEl2OOQgep1GJRJzYBk=
+
+Name: dropins/eclipse/plugins/org.eclipse.swt.nl_it_4.2.0.v20130724060
+ 447.jar
+SHA-256-Digest: tctco+F9v4SUYleMDRZDYGWMvR2BqAjNUvDv92OcVvw=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.net.nl_it_4.2.0.v20130724
+ 060447.jar
+SHA-256-Digest: wiQ2K1mFfuNengm7N97ysSNeuDlAFoMuMuhFQcTcHy8=
+
+Name: dropins/eclipse/plugins/org.eclipse.ui.views.nl_it_4.2.0.v201307
+ 24060447.jar
+SHA-256-Digest: kJgtpFUPXN98ICqdnc7pigp48fWw5zjndxFrplNmYKI=
+
+Name: dropins/eclipse/plugins/org.eclipse.jdt.doc.isv.nl_it_4.2.0.v201
+ 30724060447.jar
+SHA-256-Digest: uosTiMBJN9l93uwQyFM3yj4aDoxObcZtCPGI2/Yu6a8=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.net.linux.x86_64.nl_it_
+ 4.2.0.v20130724060447.jar
+SHA-256-Digest: +TGP8UwiKOO2EgJqk/uK4x91c+Yk2YhifHERxmiAAtQ=
+
+Name: dropins/eclipse/plugins/org.eclipse.pde.build.nl_it_4.2.0.v20130
+ 724060447.jar
+SHA-256-Digest: Ly/ybdunAJKfnK2CHXzuCCQ4aTahZb5DrcXijcT2L5g=
+
+Name: dropins/eclipse/plugins/org.eclipse.text.nl_it_4.2.0.v2013072406
+ 0447.jar
+SHA-256-Digest: ABaaRWWF8DsDgyGkO+V6VSny4G6XAEUJ4SWZoqZOc/4=
+
+Name: dropins/eclipse/plugins/org.eclipse.core.runtime.compatibility.n
+ l_it_4.2.0.v20130724060447.jar
+SHA-256-Digest: TcqjfWqPX0GTJCYaqbhBlGDsKkka62JYHuMKncdwicM=
+

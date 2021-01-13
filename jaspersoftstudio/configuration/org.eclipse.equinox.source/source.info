@@ -1,0 +1,5 @@
+#encoding=UTF-8
+#version=1
+org.eclipse.nebula.cwt.source,1.1.0.201912241810,plugins/org.eclipse.nebula.cwt.source_1.1.0.201912241810.jar,-1,false
+org.eclipse.nebula.jface.cdatetime.source,1.3.0.201912241810,plugins/org.eclipse.nebula.jface.cdatetime.source_1.3.0.201912241810.jar,-1,false
+org.eclipse.nebula.widgets.cdatetime.source,1.4.0.201912241810,plugins/org.eclipse.nebula.widgets.cdatetime.source_1.4.0.201912241810.jar,-1,false

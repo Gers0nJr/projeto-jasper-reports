@@ -1,0 +1,326 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.jaspersoft.studio.rcp; singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: ci_agent
+Require-Bundle: org.eclipse.ui.intro;visibility:=reexport,com.jasperso
+ ft.studio;bundle-version="6.12.2",org.eclipse.ui.browser;bundle-versi
+ on="3.3.0",org.eclipse.debug.ui,org.eclipse.equinox.p2.operations;bun
+ dle-version="2.0.0",org.eclipse.equinox.p2.core;bundle-version="2.0.0
+ ",org.eclipse.equinox.p2.ui;bundle-version="2.0.0",org.eclipse.equino
+ x.p2.metadata;bundle-version="2.0.0",org.eclipse.equinox.p2.engine;bu
+ ndle-version="2.0.0",org.eclipse.ui.views.log
+Bundle-ManifestVersion: 2
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: %Bundle-Vendor
+Eclipse-ExtensibleAPI: true
+Export-Package: com.jaspersoft.studio.rcp,com.jaspersoft.studio.rcp.in
+ tro,com.jaspersoft.studio.rcp.p2,com.jaspersoft.studio.rcp.workspace
+Bundle-Name: %Bundle-Name
+Bundle-Version: 6.12.2.final
+Bundle-Localization: plugin
+Bundle-ClassPath: patch-library.jar,.
+Bundle-Activator: com.jaspersoft.studio.rcp.Activator
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_202
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor$6.cl
+ ass
+SHA-256-Digest: H305r3YKlnwqXHe+Dvtc1Akywy2ayZsMvY1TckSf26A=
+
+Name: plugin.xml
+SHA-256-Digest: s/7KNRSgYLFO+mROQtXZ91I+Dv8AYFBA2dfmUNXK0GA=
+
+Name: content/images/pen.png
+SHA-256-Digest: gbsxuMg/FJu6mM2Fkt4A9f/YH+eBn9w+yHMsVt+IdUU=
+
+Name: com/jaspersoft/studio/rcp/intro/action/CloseIntroPartAction.clas
+ s
+SHA-256-Digest: IYLA87m3tD7ovdox7AAzoTlzMRRUxAeyjOtvwIpuDiY=
+
+Name: icons/jss_icon_16.png
+SHA-256-Digest: 37E49X6Xnj+uiqDTu1E0O+LmnnIjTJognXg+cangnEA=
+
+Name: icons/jaspersoftstudio.ico
+SHA-256-Digest: lwc4QK/RGTGWYYhG/qrKNkft/9tHvuc8l4QAEexnS2I=
+
+Name: com/jaspersoft/studio/rcp/intro/action/OpenFileAction.class
+SHA-256-Digest: wrqzKR/9Ury+wUY9UU1tvShAcKCQzXnFFME+wLiUDaw=
+
+Name: com/jaspersoft/studio/rcp/handlers/LocaleSourceProvider.class
+SHA-256-Digest: 7HzSGVNERBAj7Mzgz0GTLHE29pzuDAWgkpBnVlw/CQQ=
+
+Name: com/jaspersoft/studio/rcp/workspace/WorkspaceUtils.class
+SHA-256-Digest: 9kkhXSH4YqZFO5ylejeeklsIACubVBNj9FdKhgqLvg4=
+
+Name: com/jaspersoft/studio/rcp/messages/messages_fr.properties
+SHA-256-Digest: EpBMdIQFF/LRRnyl6qnRDTMKPJgLsT7kjAfMTRzf5H4=
+
+Name: com/jaspersoft/studio/rcp/intro/action/OpenCheatSheetAction.clas
+ s
+SHA-256-Digest: eyKD5HaMgk/RG63wdGrFLUL5OvDJemwMlEdQNhfO8jI=
+
+Name: com/jaspersoft/studio/rcp/intro/Application.class
+SHA-256-Digest: GIcAI03yybropzZ9ESn5iEgOx2M5JhH/hu3g2Q4gRFk=
+
+Name: icons/language/us.png
+SHA-256-Digest: NszlyuPS4ARbKytsv/2tegq6PpmRnMIZu/BXjv3EVYU=
+
+Name: com/jaspersoft/studio/rcp/Activator$2.class
+SHA-256-Digest: T5UOSIdFZmoIaaLfRQYX2yqWLEpicUlw6MOW4SLbCXE=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor$2.cl
+ ass
+SHA-256-Digest: zNST7QY8057AFc/Y64H513lW7iVrrikhLfkDs0DrMhs=
+
+Name: com/jaspersoft/studio/rcp/p2/PreloadingRepositoryHandler$3$1.cla
+ ss
+SHA-256-Digest: zE4DmiYbYAe/kOC4tbUXkYO7ENXYZ7/i/q11dg2JuQI=
+
+Name: icons/jss_icon_256.png
+SHA-256-Digest: qLNqvCUbv2r89y/DwruIrGmMdJuwiYUDomurBucPOkk=
+
+Name: icons/toolbar/data_source.png
+SHA-256-Digest: cil7anqh+PbZZ4LCxOfA2mMEqtyAGz7boT8WYmcaaFg=
+
+Name: content/css/style.css
+SHA-256-Digest: boZDJSC3e7NEjxqPO/1jYxrH3XHutG2sQa8h61YPF70=
+
+Name: com/jaspersoft/studio/rcp/intro/Application$1.class
+SHA-256-Digest: GfsAlrdAzOSrRAXW6DywEbjIoq56jzTNmBBtjVu8eas=
+
+Name: icons/studio_logo.png
+SHA-256-Digest: GRFqtqgTAiUigJVfE5BYNEJx2DS2O+jCFqwHru10XLM=
+
+Name: plugin.properties
+SHA-256-Digest: G/rQRwXx4UPjObRJLRBLUzOIJz0dW6eAsCWIQNNL8F4=
+
+Name: icons/toolbar/data_source_add.png
+SHA-256-Digest: i+1+bPWv8AjcrIOslmbPXz2B7qJdKg7dJwZkMQRQEKs=
+
+Name: icons/jss_icon_32.png
+SHA-256-Digest: e7U7lMbz22PZB08+T5bSA49cV58FWQXAXDwgfBWwqrE=
+
+Name: META-INF/maven/com.jaspersoft.studio.community-edition/com.jaspe
+ rsoft.studio.rcp/pom.xml
+SHA-256-Digest: 9A681U6FKDQBf0R1ooeor8l2Pji5Dys8nktBvnhFryc=
+
+Name: content/images/background.png
+SHA-256-Digest: z7AlCpvF8t2Pki98yAIx31LaF6engDEZFETPQk4SntA=
+
+Name: META-INF/maven/com.jaspersoft.studio.community-edition/com.jaspe
+ rsoft.studio.rcp/pom.properties
+SHA-256-Digest: TFimOq5PDLqrv7yYDWAOCq6+F2QcypTrIS5JdXIgsVo=
+
+Name: plugin_customization.ini
+SHA-256-Digest: vf4lfb8IPZpoFb7+WVdmvUh0neW79SWxmBSJsnf0cQQ=
+
+Name: com/jaspersoft/studio/rcp/handlers/SwitchLanguageHandler.class
+SHA-256-Digest: PgKKKe1B+5VfGa9HQFVvOCV3tWx3HQctvuB6GE/a5jU=
+
+Name: updatesite.properties
+SHA-256-Digest: 0WtN8Y/SpE5qH9f0yiS9mhn6AUeFq1Cqg317+Bbj9JE=
+
+Name: com/jaspersoft/studio/rcp/workspace/PickWorkspaceDialog.class
+SHA-256-Digest: uBIt5q5a9jEp1sx77RIEnML8waV/bK7lBqCRrNwfspw=
+
+Name: com/jaspersoft/studio/rcp/workspace/PickWorkspaceDialog$2.class
+SHA-256-Digest: 6cOC0FQptN8EDPI5gZfRHkqnZ+tt8LRrhaFOk9JCm3M=
+
+Name: icons/alt_window_32.gif
+SHA-256-Digest: uJG58x8p43CWLRqH2naQ/KNOGh27Km/Ctz+dY7Pnswg=
+
+Name: icons/jss_icon_128.png
+SHA-256-Digest: NeZHG3uFPHNVbXZl57EYuyLp7lsati1uTH8tL39wm4g=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor$5.cl
+ ass
+SHA-256-Digest: oAzusQkho9G21EpCBmtX31tQ09b7YUmSnfGeuk6NpkU=
+
+Name: com/jaspersoft/studio/rcp/p2/PreloadingRepositoryHandler$1.class
+SHA-256-Digest: JfGW7GNdaP1S7w/pl7bHP2u5OzIUrnb5oPnpQ6O1p2o=
+
+Name: com/jaspersoft/studio/rcp/Activator$1.class
+SHA-256-Digest: KqQJwd5OvOc2IlMd9oi7Ge7hxL0VWR9GKHXiVQqGa+M=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor$3$1.
+ class
+SHA-256-Digest: PP8AItdNoEz/sn7lHv4NlpEZFNhvggl06My4VGfMrXI=
+
+Name: com/jaspersoft/studio/rcp/workspace/WorkspaceUtils$1.class
+SHA-256-Digest: yUbq2enLRt/Rk+Q5U60zK57YHPm0eP3rEqLYeflV/14=
+
+Name: com/jaspersoft/studio/rcp/p2/P2Util.class
+SHA-256-Digest: Z7I5rP1KdkfNroBzfEzg44sF07P+iaXSR6YV7PWMXFY=
+
+Name: com/jaspersoft/studio/rcp/p2/PreferenceInitializer.class
+SHA-256-Digest: rp0M6J1C1KvCdu/UEAJtTO9zCqB3Lc2deYAyzR1sYnw=
+
+Name: introContent.xml
+SHA-256-Digest: rb6C1tS9OzoqPg53iBnru7qvN5ZltO+JiQ90UqIsZjs=
+
+Name: com/jaspersoft/studio/rcp/intro/action/OpenFileAction$1.class
+SHA-256-Digest: hlZkIsAGtAS70GwYJqgr2zSHy5+m6E0sY9eR3AgR9VM=
+
+Name: com/jaspersoft/studio/rcp/Startup.class
+SHA-256-Digest: ZnEr0szcmDWgxWXM8bBXjkhvpXuKdm5TTg+R7lN55G8=
+
+Name: icons/jss_icon_512.png
+SHA-256-Digest: qLNqvCUbv2r89y/DwruIrGmMdJuwiYUDomurBucPOkk=
+
+Name: com/jaspersoft/studio/rcp/intro/IntroXHTMLContentProvider.class
+SHA-256-Digest: gMXQJSywSTUIfZ1VZABowUWE90l+KGGNnFcatteOFYg=
+
+Name: icons/toolbar/jrxml_icon.png
+SHA-256-Digest: LRoc2//vfeqomvpV/ZAU8EqBllsNlXwH/4QmoMKfmiU=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationWorkbenchWindowAdviso
+ r.class
+SHA-256-Digest: 3zObyBYaIWFQYGdh9IiNsuI3oayKoIzwnXdyHaSw29Y=
+
+Name: icons/toolbar/jrxml_icon_add.png
+SHA-256-Digest: 8aicDoItNZMthRcopvXPa5jTlTWUSeHLTg/V3B0KuuI=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationWorkbenchAdvisor.clas
+ s
+SHA-256-Digest: V4/SE2Fas7NcK+wFOAFA1/UhgH0fFfqAGmwe3qRz2mc=
+
+Name: content/index.xhtml
+SHA-256-Digest: gwOQ1GfWiomDsIss/PTgNJ5FE4V0znZ1s4VWtgNu4fY=
+
+Name: splash.bmp
+SHA-256-Digest: +Sa3CW7IV0yKMzANTh0VyKDQR9GUUkQiP1PdeXhjY3w=
+
+Name: com/jaspersoft/studio/rcp/messages/ResourcePublisher.class
+SHA-256-Digest: 9iO7e4vfP8AXWHmLRRIHzmHmPuuGoQwGmJNek8Votww=
+
+Name: icons/jaspersoftstudio.icns
+SHA-256-Digest: NGKqKGdq4HlYudYC6/NWfa/SFPhXPH8YsLnJD4+teG0=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor$1.cl
+ ass
+SHA-256-Digest: bAgFvuxw9sDL+gq9TGNfs7JwquB/Hho8T7YOKqmYYyY=
+
+Name: content/images/collaborate.png
+SHA-256-Digest: ucJdtqWMIu8Ni2y2qbQkuv2svwyZlAjM7LyrhOHrB4s=
+
+Name: com/jaspersoft/studio/rcp/p2/PreloadingRepositoryHandler$2.class
+SHA-256-Digest: b2OiDa8UecMCvnFioLsJSUyCYLvfU/S9xtULnPBHjmM=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor.clas
+ s
+SHA-256-Digest: Zh5SugoVM10kdSVd/ImjpNlk7SB5HvP9XZky7tTjPx8=
+
+Name: com/jaspersoft/studio/rcp/Startup$1.class
+SHA-256-Digest: zV/R+WcrCG0jSCkpYp+PHDNbsvLr6h/KU8HMm+OSvzs=
+
+Name: icons/alt_window_16.gif
+SHA-256-Digest: 9aReIyAY8P1xWzVnHnamdBv54JzX2RU9kFRLJSH6PvU=
+
+Name: com/jaspersoft/studio/rcp/p2/InstallNewSoftwareHandler.class
+SHA-256-Digest: ZeFb8Fo35lxJrOW28+ieg1KK0etv+u8PAlprIsgy2lQ=
+
+Name: com/jaspersoft/studio/rcp/workspace/WorkspaceUtils$1$1.class
+SHA-256-Digest: StWQ5dgg9x844GQo68pWraFNmY37uOVHKhqPsBnXl8g=
+
+Name: content/images/learn.png
+SHA-256-Digest: fzgLUQUwPsAKPmvaskkDWkVBx8+MNX3bTnajxgKy8c4=
+
+Name: com/jaspersoft/studio/rcp/messages/messages_it.properties
+SHA-256-Digest: 3t1NvAwnizIjSd359wrH9Ch3i3Q54wXsZ4biYgjIHvY=
+
+Name: com/jaspersoft/studio/rcp/intro/action/OpenInBrowserAction.class
+SHA-256-Digest: Xcppk+BYIKw8347JMcjKWsHzXUOXNUa6hK45imFsBC0=
+
+Name: icons/jss_icon_256.xpm
+SHA-256-Digest: UPt0syvAvItrTfI65OsmAVmQLshzj1I0Wr5uxtYjUDk=
+
+Name: content/scripts/index.js
+SHA-256-Digest: i4149+DkgwZkjlEIYkBYdfw9gD7uwxGpgdX0VvIsAXI=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor$4.cl
+ ass
+SHA-256-Digest: N18cQpeK4Xp9xJgiRS+F2PJr4QZFoUsiqajNXeHC/bk=
+
+Name: icons/jss_icon_128.xpm
+SHA-256-Digest: Mhyxm9ttJXJy3TNYZ9RnpoawLYSeopufsYd5W2LCpZE=
+
+Name: icons/studio_logo_about.png
+SHA-256-Digest: L1Y/WWvMFBzpNPQwiQ+MLSTSas3csQ6qwvjEQZ6icsI=
+
+Name: com/jaspersoft/studio/rcp/p2/PreloadingRepositoryHandler.class
+SHA-256-Digest: UdIQjFhf+Gy7GUlgth51ThhxPajZuYHsFViD1kF2lFY=
+
+Name: content/images/shadow.png
+SHA-256-Digest: FSHJLoerLlqdrqC/5W4Wdqro/SAaG7/NwB0xOEWXTXw=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor$7.cl
+ ass
+SHA-256-Digest: Uw2pdnY188I+02vhKttI0oyss9g9FwI695tFSicYhIs=
+
+Name: com/jaspersoft/studio/rcp/p2/JSSP2Policy.class
+SHA-256-Digest: 0Xfx2FZs0+yCUkcD22vvlq2NusuzYqZeDM21oIO5Deo=
+
+Name: com/jaspersoft/studio/rcp/messages/messages.properties
+SHA-256-Digest: u4zaUgRhDOd2wfWqoBmxUPEyCCowCXDwWNiFqzM0Fdw=
+
+Name: icons/jr_icon.png
+SHA-256-Digest: ya0OQGk8vJhI+WhIeVEGT9UKyhZT/ZcA5sMKj5+6ZXI=
+
+Name: com/jaspersoft/studio/rcp/messages/Messages.class
+SHA-256-Digest: Hp6KfZCjIsDdlfIohSOCkrFIUAO4spkNPN/nLNHHtsY=
+
+Name: com/jaspersoft/studio/rcp/p2/UpdateHandler.class
+SHA-256-Digest: EokaPMmJKzf7BXTqRADi/Yy3hmcrykZ4NATFeFzH94k=
+
+Name: icons/jss_icon_48.png
+SHA-256-Digest: 1dykhtn21OWKIZwVeoOI7XyBsTY+G2C4TqTLy/f+nzw=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationActionBarAdvisor$3.cl
+ ass
+SHA-256-Digest: dIGQo1bNDtFv2v+0o17K/cd9Ams2AFwpFA25j3NN4Jw=
+
+Name: icons/jss_icon_64.png
+SHA-256-Digest: 7Ku7O7Y7zjVi/CUbkv2bUCz2AjqWLIqe7O+k684nYfY=
+
+Name: content/images/tibco_studio.png
+SHA-256-Digest: bJXtx4/M3bUehyXHZKzo29clwG0TFCUAAPSFYrnB9Bg=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationWorkbenchWindowAdviso
+ r$1$1.class
+SHA-256-Digest: 4CDUxo++ZSR1AdeD2kYo1XElpLH4gMAF7T8c3WGkZy4=
+
+Name: com/jaspersoft/studio/rcp/intro/ApplicationWorkbenchWindowAdviso
+ r$1.class
+SHA-256-Digest: agEh6x2Wk9qKxoZzxNiqLt7gqTFThDToKzEJbCfSepc=
+
+Name: icons/language/it.png
+SHA-256-Digest: x5kvV9ZxVvmUo4xrtOxy+ldgGihFWNteBlwC3DbunYw=
+
+Name: com/jaspersoft/studio/rcp/workspace/ActionSwitchWorkspace.class
+SHA-256-Digest: l+mN1s9ZZKNIF1K0e//nLpWpWm1pZ6Sus9Wc+K+KDKI=
+
+Name: content/scripts/jquery-3.4.1.min.js
+SHA-256-Digest: CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=
+
+Name: com/jaspersoft/studio/rcp/workspace/PickWorkspaceDialog$1.class
+SHA-256-Digest: xYLsdIPw5itg66hKRywlxzrFwgVfyRutrJuGpFQ3Zww=
+
+Name: com/jaspersoft/studio/rcp/p2/PreloadingRepositoryHandler$3.class
+SHA-256-Digest: zl+nNhWJqOYc1yfGUW5HYsCH+DU03Csi1jjyBZPBJTE=
+
+Name: com/jaspersoft/studio/rcp/Activator.class
+SHA-256-Digest: yekGYqElukYaQQD/kCeX3uz//3LPlHKYSA3k9OJulBg=
+
+Name: com/jaspersoft/studio/rcp/p2/PreferenceConstants.class
+SHA-256-Digest: gqonQ6pGsynWrGuhzzLERASAd0V0hWVJ78EzyyF1ass=
+
+Name: icons/toolbar/jasperreports_jrtx_add.png
+SHA-256-Digest: eyXyZ1ql4oHBcvXs9aXo8XtcK0SHdV0NFha2QG2aNEM=
+
+Name: com/jaspersoft/studio/rcp/OpenDocumentEventProcessor.class
+SHA-256-Digest: Y/ADqd+4GVk6lP4oOb+B8v0JR0VmQsSixfwVAThLnH8=
+
+Name: icons/toolbar/jasperreports_jrtx.png
+SHA-256-Digest: ++0qTcjlfdRHxjEV363o8mII7LxrupZKCBKJyigw03o=
+

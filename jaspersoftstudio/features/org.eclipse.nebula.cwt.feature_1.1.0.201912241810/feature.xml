@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.nebula.cwt.feature"
+      label="Nebula Custom Widget Toolkit"
+      version="1.1.0.201912241810"
+      provider-name="Eclipse Nebula">
+
+   <description url="http://eclipse.org/nebula">
+      Custom Widget Toolkit
+   </description>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.nebula.cwt"
+         download-size="148"
+         install-size="283"
+         version="1.1.0.201912241810"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.nebula.cwt.source"
+         download-size="182"
+         install-size="550"
+         version="1.1.0.201912241810"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: ci_agent
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_202
+
+Name: feature.xml
+SHA-256-Digest: hRofoeJn3X4T9HJ6Ls24b/ECfS/xZOOnWbeDn/0VHrQ=
+
